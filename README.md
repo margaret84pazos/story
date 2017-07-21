@@ -1,3 +1,2 @@
 # This is a story
-
-I hope this works.
+A girl is found in a street, what would you do?
