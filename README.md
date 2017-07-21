@@ -1,3 +1,5 @@
 # This is a story
 A chicken wing is found in a street, what would you do?
-Find some hot sauce! 
+Find some hot sauce!
+
+It's a chicken wing in the middle of the street! I'd probably die if I ate it.
